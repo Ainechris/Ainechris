@@ -1,19 +1,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0B1F44,100:0077FF&text=AINE%20CHRIS&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20BACKEND%20ENGINEERING&descSize=15&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0B1F44,100:0077FF&text=AINE%20CHRIS&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20BACKEND%20ENGINEERING&descSize=15&descAlignY=60&animation=fadeIn" alt="Aine Chris profile header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Development+Student;Aspiring+Software+Engineer;Backend+Development+Enthusiast;Building+Ideas+Into+Digital+Solutions" alt="Introduction"/>
 
-<a href="https://github.com/Ainechris">
-<img src="https://img.shields.io/badge/GitHub-Ainechris-0B1F44?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.instagram.com/__aine_.23/">
-<img src="https://img.shields.io/badge/Instagram-Connect-123D50?style=for-the-badge&logo=instagram"/>
-</a>
-<a href="mailto:ainechrisb@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0077FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Ainechris"><img src="https://img.shields.io/badge/GitHub-Ainechris-0B1F44?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.instagram.com/__aine_.23/"><img src="https://img.shields.io/badge/Instagram-Connect-123D50?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="mailto:ainechrisb@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0077FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
 
@@ -34,21 +30,17 @@ I'm passionate about transforming complex ideas into practical digital solutions
 
 ## TECHNOLOGY & PROFICIENCY
 
-<div align="center">
-
 | TECHNOLOGY | PROFICIENCY | LEVEL |
 |:---|:---:|---:|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> **HTML5** | 🟦🟦🟦🟦🟦 | **100%** |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> **CSS3** | 🟦🟦🟦🟦⬜ | **90%** |
-| <img src="https://img.shields.io/badge/Backend-0B1F44?style=flat-square&logo=serverfault&logoColor=white"/> **Backend Development** | 🟦🟦🟦🟦⬜ | **80%** |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> **JavaScript** | 🟦🟦🟦🟦⬜ | **80%** |
-| <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> **Node.js** | 🟦🟦🟦⬜⬜ | **70%** |
-| <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=black"/> **Express.js** | 🟦🟦🟦⬜⬜ | **70%** |
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> **MySQL** | 🟦🟦🟦⬜⬜ | **65%** |
-| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> **Git** | 🟦🟦🟦⬜⬜ | **70%** |
-| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> **GitHub** | 🟦🟦🟦🟦⬜ | **90%** |
-
-</div>
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> **HTML5** | 🟦🟦🟦🟦🟦 | **100%** |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> **CSS3** | 🟦🟦🟦🟦⬜ | **90%** |
+| <img src="https://img.shields.io/badge/Backend-0B1F44?style=flat-square&logo=serverfault&logoColor=white" alt="Backend"/> **Backend Development** | 🟦🟦🟦🟦⬜ | **80%** |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> **JavaScript** | 🟦🟦🟦🟦⬜ | **80%** |
+| <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> **Node.js** | 🟦🟦🟦⬜⬜ | **70%** |
+| <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=black" alt="Express.js"/> **Express.js** | 🟦🟦🟦⬜⬜ | **70%** |
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> **MySQL** | 🟦🟦🟦⬜⬜ | **65%** |
+| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> **Git** | 🟦🟦🟦⬜⬜ | **70%** |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> **GitHub** | 🟦🟦🟦🟦⬜ | **90%** |
 
 <sub>Proficiency levels are self-assessments of my current knowledge and practical experience.</sub>
 
@@ -58,21 +50,22 @@ I'm passionate about transforming complex ideas into practical digital solutions
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FEATURED%20PROJECT-SAMS-0077FF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FEATURED%20PROJECT-SAMS-0077FF?style=for-the-badge&logo=python&logoColor=white" alt="Featured project SAMS"/>
 
-# SAMS
-### School Attendance Management System
+<h1>SAMS</h1>
 
-**A school attendance and access-management platform designed to improve attendance tracking, security and administrative oversight.**
+<h3>School Attendance Management System</h3>
+
+<p><strong>A school attendance and access-management platform designed to improve attendance tracking, security and administrative oversight.</strong></p>
 
 <table>
 <tr>
 <td bgcolor="#071426" align="center">
 
-<img src="https://img.shields.io/badge/FLASK-BACKEND-38BDF8?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLITE-DATABASE-38BDF8?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLASK-BACKEND-38BDF8?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/SQLITE-DATABASE-38BDF8?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
 
-### SYSTEM OVERVIEW
+<h3>SYSTEM OVERVIEW</h3>
 
 A role-based system connecting school administrators, security officers and students through a centralized attendance-management platform.
 
@@ -80,11 +73,13 @@ A role-based system connecting school administrators, security officers and stud
 </tr>
 </table>
 
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-0EA5E9?style=for-the-badge" alt="In development"/>
+
 </div>
 
 ### CORE FEATURES
 
-| Module | Functionality |
+| MODULE | FUNCTIONALITY |
 |:---|:---|
 | Administrator | Manage students, security users, attendance and reports |
 | Security officers | Individual authentication and gate-session management |
@@ -95,9 +90,7 @@ A role-based system connecting school administrators, security officers and stud
 
 ### DEVELOPMENT PROGRESS
 
-<badge color="info">In development</badge>
-
-The system is being developed around authentication, attendance workflows, role-based access and reliable record management.
+SAMS is currently in development, with work focused on authentication, attendance workflows, role-based access and reliable record management.
 
 **Technology stack:** Python, Flask, SQLite.
 
@@ -111,14 +104,14 @@ The system is being developed around authentication, attendance workflows, role-
 <tr>
 <td width="50%" align="center" bgcolor="#071426">
 
-**PROFILE STATISTICS**
+<strong>PROFILE STATISTICS</strong>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ainechris&show_icons=true&hide_border=true&bg_color=071426&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" width="100%" alt="GitHub statistics"/>
 
 </td>
 <td width="50%" align="center" bgcolor="#102B4C">
 
-**MOST USED LANGUAGES**
+<strong>MOST USED LANGUAGES</strong>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ainechris&layout=compact&hide_border=true&bg_color=102B4C&title_color=38BDF8&text_color=FFFFFF" width="100%" alt="Most used languages"/>
 
@@ -127,7 +120,7 @@ The system is being developed around authentication, attendance workflows, role-
 <tr>
 <td colspan="2" align="center" bgcolor="#071426">
 
-**CONTRIBUTION STREAK**
+<strong>CONTRIBUTION STREAK</strong>
 
 <img src="https://streak-stats.demolab.com?user=Ainechris&hide_border=true&background=071426&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="85%" alt="GitHub contribution streak"/>
 
@@ -153,7 +146,11 @@ The system is being developed around authentication, attendance workflows, role-
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Ainechris/Ainechris/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ainechris/Ainechris/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ainechris/Ainechris/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Ainechris/Ainechris/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+</picture>
 
 </div>
 
@@ -171,24 +168,16 @@ The system is being developed around authentication, attendance workflows, role-
 
 ## LET'S CONNECT
 
+<p align="center">
+  <a href="mailto:ainechrisb@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0077FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://github.com/Ainechris"><img src="https://img.shields.io/badge/GitHub-Follow_My_Work-0B1F44?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.instagram.com/__aine_.23/"><img src="https://img.shields.io/badge/Instagram-Connect-123D50?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
 <div align="center">
-
-<a href="mailto:ainechrisb@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-0077FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ainechris">
-<img src="https://img.shields.io/badge/GitHub-Follow_My_Work-0B1F44?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/__aine_.23/">
-<img src="https://img.shields.io/badge/Instagram-Connect-123D50?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br/><br/>
 
 **BUILDING TODAY. INNOVATING TOMORROW.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0077FF,50:0B1F44,100:020617"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0077FF,50:0B1F44,100:020617" alt="Footer"/>
 
 </div>
