@@ -1,18 +1,18 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0B1F44,100:0077FF&text=AINE%20CHRIS&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20BACKEND%20ENGINEERING&descSize=15&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0B1F44,100:0077FF&text=AINE%20CHRIS&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20BACKEND%20ENGINEERING&descSize=15&descAlignY=60&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Development+Student;Aspiring+Software+Engineer;Backend+Development+Enthusiast;Building+Ideas+Into+Digital+Solutions" alt="Introduction"/>
 
 <a href="https://github.com/Ainechris">
-  <img src="https://img.shields.io/badge/GitHub-Ainechris-0B1F44?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Ainechris-0B1F44?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.instagram.com/__aine_.23/">
-  <img src="https://img.shields.io/badge/Instagram-Connect-123D50?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Connect-123D50?style=for-the-badge&logo=instagram"/>
 </a>
 <a href="mailto:ainechrisb@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0077FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-0077FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -24,8 +24,6 @@
 I'm a Software Development student at **Intango TSS (L4 SOD)** with a strong interest in software engineering and backend development.
 
 I'm passionate about transforming complex ideas into practical digital solutions. My journey revolves around backend engineering, database design, application development, and exploring the technologies shaping tomorrow.
-
-I believe every great application starts with an idea, grows through experimentation, and becomes powerful through innovation.
 
 - Currently developing my software engineering skills.
 - Interested in backend development and system design.
@@ -60,47 +58,48 @@ I believe every great application starts with an idea, grows through experimenta
 
 <div align="center">
 
-### 🚀 VOICE HELPER
+<img src="https://img.shields.io/badge/FEATURED%20PROJECT-SAMS-0077FF?style=for-the-badge&logo=python&logoColor=white"/>
 
-**An accessibility-focused desktop voice assistant.**
+# SAMS
+### School Attendance Management System
 
-</div>
+**A school attendance and access-management platform designed to improve attendance tracking, security and administrative oversight.**
 
 <table>
 <tr>
-<td>
+<td bgcolor="#071426" align="center">
 
-**PROJECT OVERVIEW**
+<img src="https://img.shields.io/badge/FLASK-BACKEND-38BDF8?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLITE-DATABASE-38BDF8?style=flat-square&logo=sqlite&logoColor=white"/>
 
-Voice Helper is a desktop application designed to make computer interaction easier through voice commands and text input.
+### SYSTEM OVERVIEW
 
-</td>
-</tr>
-<tr>
-<td>
-
-**PROJECT DETAILS**
-
-- **Status:** In development
-- **Purpose:** Accessibility and voice interaction
-- **Platform:** Desktop application
-- **Technologies:** JavaScript, Electron, HTML and CSS
-
-</td>
-</tr>
-<tr>
-<td>
-
-**CURRENT DIRECTION**
-
-- Voice interaction
-- Text-based communication
-- Desktop application development
-- AI-powered assistance
+A role-based system connecting school administrators, security officers and students through a centralized attendance-management platform.
 
 </td>
 </tr>
 </table>
+
+</div>
+
+### CORE FEATURES
+
+| Module | Functionality |
+|:---|:---|
+| Administrator | Manage students, security users, attendance and reports |
+| Security officers | Individual authentication and gate-session management |
+| Attendance kiosk | Dedicated student attendance check-in |
+| Student portal | Linked student accounts and attendance history |
+| Audit system | Activity logs and controlled administrator overrides |
+| Gate scheduling | Scheduled gate opening at 08:00 and closing at 09:00 |
+
+### DEVELOPMENT PROGRESS
+
+<badge color="info">In development</badge>
+
+The system is being developed around authentication, attendance workflows, role-based access and reliable record management.
+
+**Technology stack:** Python, Flask, SQLite.
 
 ---
 
@@ -110,27 +109,27 @@ Voice Helper is a desktop application designed to make computer interaction easi
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" bgcolor="#071426">
 
 **PROFILE STATISTICS**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ainechris&show_icons=true&include_all_commits=true&hide_border=true&bg_color=071426&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8" width="100%" alt="GitHub profile statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ainechris&show_icons=true&hide_border=true&bg_color=071426&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" width="100%" alt="GitHub statistics"/>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" bgcolor="#102B4C">
 
 **MOST USED LANGUAGES**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ainechris&layout=compact&hide_border=true&bg_color=102B4C&title_color=38BDF8&text_color=E2E8F0" width="100%" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ainechris&layout=compact&hide_border=true&bg_color=102B4C&title_color=38BDF8&text_color=FFFFFF" width="100%" alt="Most used languages"/>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td colspan="2" align="center" bgcolor="#071426">
 
 **CONTRIBUTION STREAK**
 
-<img src="https://streak-stats.demolab.com?user=Ainechris&hide_border=true&background=071426&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="85%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Ainechris&hide_border=true&background=071426&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="85%" alt="GitHub contribution streak"/>
 
 </td>
 </tr>
@@ -144,15 +143,17 @@ Voice Helper is a desktop application designed to make computer interaction easi
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ainechris&bg_color=071426&color=38BDF8&line=0077FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ainechris&bg_color=071426&color=38BDF8&line=0077FF&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" alt="GitHub activity graph"/>
 
 </div>
 
-### CONTRIBUTION SNAKE
+---
+
+## CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ainechris/Ainechris/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
+<img width="100%" src="https://raw.githubusercontent.com/Ainechris/Ainechris/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
 </div>
 
@@ -173,13 +174,15 @@ Voice Helper is a desktop application designed to make computer interaction easi
 <div align="center">
 
 <a href="mailto:ainechrisb@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-0077FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-0077FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Ainechris">
-  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-0B1F44?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Work-0B1F44?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.instagram.com/__aine_.23/">
-  <img src="https://img.shields.io/badge/Instagram-Connect-123D50?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Connect-123D50?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
